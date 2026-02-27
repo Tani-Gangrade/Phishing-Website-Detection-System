@@ -7,7 +7,7 @@ A machine learning-based web application that detects and classifies websites as
 -  **Model Optimization**: RandomizedSearchCV for hyperparameter tuning, PCA for dimensionality reduction.
 -  **Model Evaluation**: Accuracy, Precision, Recall, and F1-score used for assessment.
 -  **Deployment**: Flask-powered web app with real-time predictions.
--  **Interactive UI**: Clean HTML frontend for URL input and instant results.
+-  **Interactive UI**: Clean HTML frontend for URL input and instant results. 
 
 ## 🧩 How It Works
 1. Input: User enters a URL into the web form.
