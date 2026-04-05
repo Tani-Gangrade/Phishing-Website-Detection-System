@@ -20,5 +20,5 @@ A machine learning-based web application that detects and classifies websites as
 - Add support for browser extension integration.
 - Cloud deployment with HTTPS and load balancing.
 - Use LSTM or transformers for sequence-based phishing detection.
-- Integrate phishing database cross-check for more accuracy. 
+- Integrate phishing database cross-check for more accuracy.
 
