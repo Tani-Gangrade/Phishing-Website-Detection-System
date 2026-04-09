@@ -1,4 +1,4 @@
-# 🛡️ Phishing Website Detection System
+# 🛡️ SecureLink
 A machine learning-based web application that detects and classifies websites as **legitimate** or **phishing** in real time. The model leverages advanced feature engineering techniques, ensemble learning algorithms, and Flask for deployment.
 
 ## 🎯 Key Features
